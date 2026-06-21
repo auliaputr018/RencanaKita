@@ -113,7 +113,7 @@ main/
 │   └── Data_Analysis_RencanaKita.ipynb  
 │  
 ├── Data Engineer/  
-│   ├── dags/   
+│   ├── data/   
 │   │   ├── investment_data_clean.csv  
 │   │   └── investment_data_raw.csv  
 │   │  
